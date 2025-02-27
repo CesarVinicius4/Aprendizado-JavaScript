@@ -1,0 +1,1 @@
+// Como organizar uma função mantendo um padrão para facilitar a interpretação do código
